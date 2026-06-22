@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiNextdotjs, SiSolidity } from "react-icons/si";
-import { FaRust } from "react-icons/fa";
+// import { SiNextdotjs, SiSolidity } from "react-icons/si";
+// import { FaRust } from "react-icons/fa";
 import C from "../../Assets/TechIcons/C++.svg";
 import Javascript from "../../Assets/TechIcons/Javascript.svg";
 import Node from "../../Assets/TechIcons/Node.svg";
@@ -13,7 +13,7 @@ import SQL from "../../Assets/TechIcons/SQL.svg";
 import Redux from "../../Assets/TechIcons/Redux.svg";
 import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
-
+// import { SiReact } from "react-icons/si";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -79,10 +79,10 @@ function Techstack() {
         <div className="tech-icons-text">Kubernetes</div>
       </Col> */}
 
-      {/* <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons">
         <img src={SQL} alt="SQL" />
         <div className="tech-icons-text">Postgresql</div>
-      </Col> */}
+      </Col>
 
       {/* <Col xs={4} md={2} className="tech-icons">
         <img src={Python} alt="Python" />
