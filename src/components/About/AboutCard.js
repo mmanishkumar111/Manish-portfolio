@@ -11,12 +11,12 @@ function AboutCard() {
           → Hi everyone! I’m <span className="purple">M.Manish Kumar</span>{" "}
             from <span className="purple">Balasore,Odisha,India</span>.
             <br />
-          → I’m currently working as a{" "}
-            <span className="purple">Student</span> at{" "}
-            <span className="purple">Jspiders</span>.
+          → I got trained currently from{" "}
+            <span className="purple">Jspiders</span>as a{" "}
+            <span className="purple">MERN Stack Student</span> .
             <br/>→ I hold an Bachlorer's degree in{" "}
             <span className="purple">Computer science & Engineering</span> from{" "}
-            <span className="purple">MEMS ,Balasore</span>.
+            <span className="purple">Modern Engineering And Management Studies ,Balasore</span>.
             <br />
             <br />
           → Apart from coding, some other activities that I love to do!
@@ -27,13 +27,13 @@ function AboutCard() {
               <ImPointRight /> Playing Games 🎮
             </li>
             <li className="about-activity">
-              <ImPointRight /> Exploring History of invantions
+              <ImPointRight /> Exploring History of inventions
             </li>
             <li className="about-activity">
               <ImPointRight /> Exploring New Places 🌍
             </li>
             <li className="about-activity">
-              <ImPointRight /> Vloging short stories
+              <ImPointRight /> Vloging short stories posting then in my YT(MMK_Unfolded)
             </li>
           </ul>
 
