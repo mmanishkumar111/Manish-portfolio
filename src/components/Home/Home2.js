@@ -28,7 +28,7 @@ function Home2() {
                 </b>
               </i>
               <br />
-              My field of Interest's are learnig new programming languages and
+              My field of Interest's are learing new programming languages and
               also in areas related to 
               <i>
                 <b className="purple">

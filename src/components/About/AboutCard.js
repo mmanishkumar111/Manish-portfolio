@@ -7,18 +7,20 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
+
           <p style={{ textAlign: "justify" }}>
           → Hi everyone! I’m <span className="purple">M.Manish Kumar</span>{" "}
-            from <span className="purple">Balasore,Odisha,India</span>.
-            <br />
-          → I got trained currently from{" "}
-            <span className="purple">Jspiders</span>as a{" "}
-            <span className="purple">MERN Stack Student</span> .
-            <br/>→ I hold an Bachlorer's degree in{" "}
-            <span className="purple">Computer science & Engineering</span> from{" "}
-            <span className="purple">Modern Engineering And Management Studies ,Balasore</span>.
-            <br />
-            <br />
+            an aspiring <span className="purple">MERN Stack Developer</span> passionate about building responsive, user-friendly, and scalable web applications.
+<br /><br/>
+          → I completed my Bachelor's degree in {" "}
+            <span className="purple">Computer Science & Engineering </span>from 
+            <span className="purple">Modern Engineering and Management Studies </span>and am{" "}
+            recently completed professional training in MERN Stack development at  Jspiders.
+<br/><br/>
+          → I am actively seeking opportunities as a{" "}
+            <span className="purple">Frontend Developer</span> or{" "}
+            <span className="purple">MERN Stack Developer </span>where I can contribute, learn, and grow while building impactful digital products.
+ <br /> <br />
           → Apart from coding, some other activities that I love to do!
           </p>
 
@@ -33,7 +35,10 @@ function AboutCard() {
               <ImPointRight /> Exploring New Places 🌍
             </li>
             <li className="about-activity">
-              <ImPointRight /> Vloging short stories posting then in my YT(MMK_Unfolded)
+              <ImPointRight /> Vloging short stories posting then in my YT<span className="purple">(MMK_Unfolded)</span>
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> I also  love to learn new coding languages and much more
             </li>
           </ul>
 
