@@ -14,7 +14,7 @@ function AboutCard() {
 <br /><br/>
           → I completed my Bachelor's degree in {" "}
             <span className="purple">Computer Science & Engineering </span>from 
-            <span className="purple">Modern Engineering and Management Studies </span>and am{" "}
+            <span className="purple"> Modern Engineering and Management Studies </span>and am{" "}
             recently completed professional training in MERN Stack development at  Jspiders.
 <br/><br/>
           → I am actively seeking opportunities as a{" "}
